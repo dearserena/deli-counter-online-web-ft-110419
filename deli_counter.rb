@@ -20,7 +20,7 @@ def take_a_number(katz_deli, new_person)
   line.push(new_person)
   puts "Welcome, #{new_person}. You are number #{line.length} in line."
 end
-take_a_number(katz_deli, new_person)
+take_a_number(katz_deli, "Ada")
 
 
 
